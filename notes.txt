@@ -1,3 +1,9 @@
 Day 1:
 I successfully cloned my first GitHub repository.
 I am learning Git step by step.
+
+
+Day 2 : 
+Day 2:
+I learned how to pull updates before working.
+Git is becoming clearer now.
