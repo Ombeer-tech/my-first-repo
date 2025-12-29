@@ -1,0 +1,3 @@
+Day 1:
+I successfully cloned my first GitHub repository.
+I am learning Git step by step.
